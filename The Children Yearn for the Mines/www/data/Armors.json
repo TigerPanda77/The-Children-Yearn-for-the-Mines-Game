@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"A good sheild for protection, \nlightweight and easy to use","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Round Shield","note":"<Upgrade Slots: 3>","params":[0,0,0,20,0,0,-5,0],"price":150},
+{"id":2,"atypeId":6,"description":"A good sheild for protection, heavy but sturdy.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Square Shield","note":"<Upgrade Slots: 3>","params":[0,0,0,30,0,0,-10,0],"price":250},
+{"id":3,"atypeId":14,"description":"A magical hat that smells of bunnies and birds.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Wizard Hat","note":"<Upgrade Slots: 3>","params":[0,0,0,10,0,10,0,0],"price":200},
+{"id":4,"atypeId":15,"description":"A heavy metal headpiece sure to make your neck hurt \nand keep you safe.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Knight Helmet","note":"<Upgrade Slots: 3>","params":[15,0,0,10,0,0,-5,0],"price":200},
+{"id":5,"atypeId":13,"description":"A lightweight cap that warms your ears.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Ranger Cap","note":"<Upgrade Slots: 3>","params":[5,0,0,10,0,0,5,0],"price":200},
+{"id":6,"atypeId":2,"description":"A mystical aura surrounds these robes.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Wizard Robes","note":"<Upgrade Slots: 3>","params":[0,0,0,15,0,15,0,0],"price":300},
+{"id":7,"atypeId":4,"description":"This breastplate shines with glory.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Knight Breastplate","note":"<Upgrade Slots: 3>","params":[15,0,0,20,0,0,-5,0],"price":300},
+{"id":8,"atypeId":3,"description":"This top would look good on you. ","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Ranger Garbs","note":"<Upgrade Slots: 3>","params":[5,0,0,15,0,0,10,0],"price":300},
+{"id":9,"atypeId":7,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Wizard Pants","note":"<Upgrade Slots: 3>","params":[0,0,0,0,0,0,0,0],"price":250},
+{"id":10,"atypeId":8,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Knight Pantalones","note":"<Upgrade Slots: 3>","params":[0,0,0,0,0,0,0,0],"price":250},
+{"id":11,"atypeId":9,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Ranger Shorts","note":"<Upgrade Slots: 3>","params":[0,0,0,0,0,0,0,0],"price":250},
+{"id":12,"atypeId":10,"description":"Every step sends sparks flying.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Wizard Boots","note":"<Upgrade Slots: 3>","params":[0,0,0,5,0,15,0,0],"price":150},
+{"id":13,"atypeId":12,"description":"Your enemies will hear you from a mile away.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Knight Clip-CLoppers","note":"<Upgrade Slots: 3>","params":[10,0,0,20,0,0,-5,-5],"price":150},
+{"id":14,"atypeId":11,"description":"You could run for miles in these shoes.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Ranger Shoes","note":"<Upgrade Slots: 3>","params":[5,0,0,10,0,0,5,0],"price":150},
+{"id":15,"atypeId":16,"description":"This ring thrums with magic.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Mystical Ring","note":"<Upgrade Slots: 3>","params":[0,5,0,0,10,0,0,5],"price":275},
+{"id":16,"atypeId":16,"description":"These knuckles would help in a fist fight.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":143,"name":"Brass Knuckles","note":"<Upgrade Slots: 3>","params":[0,0,15,0,0,0,0,5],"price":275},
+{"id":17,"atypeId":16,"description":"Perfect for preventing calluses!","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":142,"name":"Drawstring Gloves","note":"<Upgrade Slots: 3>","params":[0,0,0,5,0,0,10,5],"price":275},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"<Upgrade Slots: 3>","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"<Upgrade Slots: 3>","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"<Upgrade Slots: 3>","params":[0,0,0,0,0,0,0,0],"price":0}
+]

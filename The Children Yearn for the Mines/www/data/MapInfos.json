@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":false,"name":"The Habitual Well","order":2,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":2,"expanded":true,"name":"Aspern City","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1374.6666666666667},
+{"id":3,"expanded":true,"name":"Family Inn Lobby","order":3,"parentId":2,"scrollX":1404,"scrollY":783.4285714285713},
+{"id":4,"expanded":false,"name":"Family Inn Bedrooms","order":4,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"Player House","order":7,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":6,"expanded":false,"name":"Player House Bedrooms","order":8,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"Sherbert's Shiners","order":5,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":8,"expanded":false,"name":"Herbert's Healing Corner","order":12,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":9,"expanded":false,"name":"Marve's Metals","order":6,"parentId":2,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":10,"expanded":false,"name":"Hubert's Enhancements","order":10,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":11,"expanded":false,"name":"Zoie's House","order":9,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"RandomNPCHouse","order":11,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":13,"expanded":false,"name":"Past Battlefield","order":17,"parentId":0,"scrollX":1353,"scrollY":1030.5},
+null,
+{"id":15,"expanded":true,"name":"Ancient Ruins","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1566.6666666666667},
+{"id":16,"expanded":true,"name":"Demon Castle 1F","order":14,"parentId":15,"scrollX":1204,"scrollY":1262.6666666666667},
+{"id":17,"expanded":true,"name":"Demon Castle 2","order":15,"parentId":16,"scrollX":1353,"scrollY":1303.5},
+{"id":18,"expanded":false,"name":"Demon Castle 3","order":16,"parentId":17,"scrollX":1377,"scrollY":889.5}
+]
